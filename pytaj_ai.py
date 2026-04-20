@@ -15,7 +15,7 @@ from google import genai
 
 # --- KONFIGURACJA ---
 # Klient musi być teraz "czysty", bez dodatkowych opcji, które wywalają błąd
-client = genai.Client(api_key="AIzaSyAsgVNNMIbQsZ_iGF6AXDaBsbFzvvqWq3U")
+client = genai.Client(api_key="****")
 
 # Reszta kodu...
 
