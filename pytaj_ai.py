@@ -20,7 +20,7 @@ client = genai.Client(api_key="****")
 # Reszta kodu...
 
 # --- KONFIGURACJA ---
-# client = genai.Client(api_key="AIzaSyAsgVNNMIbQsZ_iGF6AXDaBsbFzvvqWq3U")
+# client = genai.Client(api_key="********")
 # MODEL_ID = "gemini-2.5-flash" # To jest aktualny standard w 2026
 MODEL_ID = "gemini-2.5-flash-lite"
 FOLDER_BASE = "PROCESSED_TEXT"
